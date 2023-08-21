@@ -1,5 +1,5 @@
 # Machine Learning
-File kerja tugas semester 6 mata kuliah machine learning. Berupa file python notebook (.ipynb).
+File kerja tugas semester 6 mata kuliah machine learning. Berupa file python notebook (.ipynb). <br>
 <img src="Machine-Learning.jpg" alt="machine-learning" width="640px"/> 
 
 # Cara mengakses
